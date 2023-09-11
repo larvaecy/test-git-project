@@ -1,1 +1,1 @@
-alert.color
+alert.color.class
